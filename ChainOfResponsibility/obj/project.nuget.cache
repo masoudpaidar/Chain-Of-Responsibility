@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNg3Ju9rX88/GW+m3wIMkXXDtujoBoBrTGVmfP2Zu1H7cIt3KEQd0SJoL9ii5w+BaQBWpansFyV3JV3pOAAaNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FanavaryMoallem\\RiderProjects\\PiplineDesignPattern\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FanavaryMoallem\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\FanavaryMoallem\\.nuget\\packages\\dumpify\\0.6.3\\dumpify.0.6.3.nupkg.sha512",
+    "C:\\Users\\FanavaryMoallem\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\FanavaryMoallem\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
